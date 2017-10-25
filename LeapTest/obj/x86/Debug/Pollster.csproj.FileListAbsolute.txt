@@ -1,0 +1,36 @@
+C:\Users\Shaun Verkey\AppData\Local\Temporary Projects\Pollster\obj\x86\Debug\Pollster.Form1.resources
+C:\Users\Shaun Verkey\AppData\Local\Temporary Projects\Pollster\obj\x86\Debug\Pollster.Properties.Resources.resources
+C:\Users\Shaun Verkey\AppData\Local\Temporary Projects\Pollster\obj\x86\Debug\Pollster.csproj.GenerateResource.Cache
+C:\Users\Shaun Verkey\AppData\Local\Temporary Projects\Pollster\bin\Debug\Pollster.exe
+C:\Users\Shaun Verkey\AppData\Local\Temporary Projects\Pollster\bin\Debug\Pollster.pdb
+C:\Users\Shaun Verkey\AppData\Local\Temporary Projects\Pollster\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\Shaun Verkey\AppData\Local\Temporary Projects\Pollster\obj\x86\Debug\Pollster.exe
+C:\Users\Shaun Verkey\AppData\Local\Temporary Projects\Pollster\obj\x86\Debug\Pollster.pdb
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\obj\x86\Debug\Pollster.exe
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\obj\x86\Debug\Pollster.pdb
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\bin\Debug\Pollster.exe
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\bin\Debug\Pollster.pdb
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\obj\x86\Debug\Pollster.csprojResolveAssemblyReference.cache
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\obj\x86\Debug\Pollster.Form1.resources
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\obj\x86\Debug\Pollster.Properties.Resources.resources
+C:\Users\Shaun Verkey\documents\visual studio 2010\Projects\Pollster\Pollster\obj\x86\Debug\Pollster.csproj.GenerateResource.Cache
+C:\Users\Shaun Verkey\Documents\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.exe
+C:\Users\Shaun Verkey\Documents\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.pdb
+C:\Users\Shaun Verkey\Documents\leaptesting\Pollster\Pollster\bin\Debug\Pollster.exe
+C:\Users\Shaun Verkey\Documents\leaptesting\Pollster\Pollster\bin\Debug\Pollster.pdb
+C:\Users\Shaun Verkey\Documents\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.csprojResolveAssemblyReference.cache
+C:\Users\Shaun Verkey\Documents\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.Form1.resources
+C:\Users\Shaun Verkey\Documents\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.Properties.Resources.resources
+C:\Users\Shaun Verkey\Documents\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.csproj.GenerateResource.Cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.exe
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.pdb
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\bin\Debug\Pollster.exe
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\bin\Debug\Pollster.pdb
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.csprojResolveAssemblyReference.cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.Form1.resources
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.Properties.Resources.resources
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Debug\Pollster.csproj.GenerateResource.Cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\obj\x86\Debug\Pollster.exe
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\obj\x86\Debug\Pollster.pdb

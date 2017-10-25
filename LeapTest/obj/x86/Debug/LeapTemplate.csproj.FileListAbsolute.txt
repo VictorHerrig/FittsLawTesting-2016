@@ -1,0 +1,49 @@
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\obj\x86\Debug\LeapTemplate.csprojResolveAssemblyReference.cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\obj\x86\Debug\LeapTemplate.csproj.GenerateResource.Cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\bin\Debug\LeapTest.exe
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\bin\Debug\LeapTest.pdb
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\obj\x86\Debug\LeapTest.Properties.Resources.resources
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\obj\x86\Debug\LeapTest.exe
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\obj\x86\Debug\LeapTest.pdb
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\Pollster\obj\x86\Debug\LeapTest.LeapTestForm.resources
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\obj\x86\Debug\LeapTest.exe
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\obj\x86\Debug\LeapTest.pdb
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\bin\Debug\LeapTest.exe
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\bin\Debug\LeapTest.pdb
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\obj\x86\Debug\LeapTemplate.csprojResolveAssemblyReference.cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\obj\x86\Debug\LeapTest.LeapTestForm.resources
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\obj\x86\Debug\LeapTest.Properties.Resources.resources
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTemplate\obj\x86\Debug\LeapTemplate.csproj.GenerateResource.Cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.exe
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.pdb
+E:\Computer_Science\Programs\C#_Tests\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.exe
+E:\Computer_Science\Programs\C#_Tests\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.pdb
+E:\Computer_Science\Programs\C#_Tests\LeapCSharp\LeapTest\bin\Debug\LeapTest.exe
+E:\Computer_Science\Programs\C#_Tests\LeapCSharp\LeapTest\bin\Debug\LeapTest.pdb
+E:\Computer_Science\Programs\C#_Tests\LeapCSharp\LeapTest\obj\x86\Debug\LeapTemplate.csprojResolveAssemblyReference.cache
+E:\Computer_Science\Programs\C#_Tests\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.LeapTestForm.resources
+E:\Computer_Science\Programs\C#_Tests\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.Properties.Resources.resources
+E:\Computer_Science\Programs\C#_Tests\LeapCSharp\LeapTest\obj\x86\Debug\LeapTemplate.csproj.GenerateResource.Cache
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.exe
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.pdb
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\bin\Debug\LeapTest.exe
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\bin\Debug\LeapTest.pdb
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Debug\LeapTemplate.csprojResolveAssemblyReference.cache
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.LeapTestForm.resources
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.Properties.Resources.resources
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Debug\LeapTemplate.csproj.GenerateResource.Cache
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.startupMenu.resources
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Debug\LeapTest.calibrationForm.resources
+F:\Downloads\Fitts\LeapTest\bin\Debug\LeapTest.exe
+F:\Downloads\Fitts\LeapTest\bin\Debug\LeapTest.pdb
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTemplate.csprojResolveAssemblyReference.cache
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTest.calibrationForm.resources
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTest.LeapTestForm.resources
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTest.startupMenu.resources
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTest.Properties.Resources.resources
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTemplate.csproj.GenerateResource.Cache
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTemplate.csproj.CoreCompileInputs.cache
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTest.exe
+F:\Downloads\Fitts\LeapTest\obj\x86\Debug\LeapTest.pdb

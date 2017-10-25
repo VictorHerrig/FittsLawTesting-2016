@@ -1,0 +1,10 @@
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\bin\Release\LeapTest.exe
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\bin\Release\LeapTest.pdb
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Release\LeapTemplate.csprojResolveAssemblyReference.cache
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Release\LeapTest.calibrationForm.resources
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Release\LeapTest.LeapTestForm.resources
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Release\LeapTest.startupMenu.resources
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Release\LeapTest.Properties.Resources.resources
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Release\LeapTemplate.csproj.GenerateResource.Cache
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Release\LeapTest.exe
+E:\Computer_Science\C# Files\LeapCSharp\LeapTest\obj\x86\Release\LeapTest.pdb

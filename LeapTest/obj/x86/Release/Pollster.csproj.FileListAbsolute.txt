@@ -1,0 +1,5 @@
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Release\Pollster.csprojResolveAssemblyReference.cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Release\Pollster.Form1.resources
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Release\Pollster.Properties.Resources.resources
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Release\Pollster.csproj.GenerateResource.Cache
+C:\Users\shughes\Documents\Development\BioMechanical\leaptesting\Pollster\Pollster\obj\x86\Release\Pollster.exe
